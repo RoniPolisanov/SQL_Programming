@@ -1,2 +1,5 @@
-# SQL_Programming
-Systems based MySQL/PHP/JSON/JS/HTML/CSS
+# Welcome to my SQL projects
+
+### Retrieving information - PHP-HTML-MySQL
+
+### Software Company Database Management - PHP-HTML-MySQL
